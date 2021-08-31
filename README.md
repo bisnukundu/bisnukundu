@@ -9,6 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/bisnukundu" target="blank"><img src="https://img.shields.io/twitter/follow/bisnukundu?logo=twitter&style=for-the-badge" alt="bisnukundu" /></a> </p>
 
+- 🔭 I’m currently working on **Freelancer, Fiverr, And One Part Time Job**
 - 👨‍💻 All of my projects are available at [https://github.com/bisnukundu](https://github.com/bisnukundu)
 
 - 💬 Ask me about **Laravel, PHP, JavaScript, React, WordPress**
