@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C5616AQGtvtfNflvHrg/profile-displaybackgroundimage-shrink_200_800/0/1627242378265?e=1643241600&v=beta&t=Vn91HA5dIyRnQmKjpLa7IaDutwsEFg40u4TFejeeT0A" alt="bisnukundu" /> </p>
+<p align="center"> <img src="./img/img.jpg" alt="bisnukundu" /> </p>
 
 <h1 align="center">Hi 👋, I'm Bisnu kundu</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
